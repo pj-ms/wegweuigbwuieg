@@ -1,2 +1,9 @@
-# wegweuigbwuieg
-Generated from prompt: App Title (working): Multiplayer Mining Lite 1. Main Purpose A lightweight, casual game where ...
+# Mine Rush
+
+This app was generated using GitHub Spark.
+
+## Getting Started
+
+1. Clone this repository
+2. Follow the setup instructions for your app type
+3. Start developing!
